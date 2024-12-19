@@ -1,3 +1,0 @@
-export(say)
-export(say_ciallo)
-export(say_electrify)
